@@ -1,5 +1,6 @@
 ﻿테스트 파일
 
+<<<<<<< HEAD
 line 1
 
 line2
@@ -9,3 +10,6 @@ line3
 line 4
 
 line 5
+=======
+line 1
+>>>>>>> parent of 091b16a... line 3
